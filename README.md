@@ -1,5 +1,19 @@
 # ColorFlood
 
+Installation du jeu
+------------------------
+
+Vous pouvez installer ColorFlood avec le ficher Makefile
+
+### Installation avec le Makefile
+
+Lancez simplement la commande suivant dans un terminal :
+```
+make
+```
+
+Lance
+
 Travailler sur le projet
 -------------------------
 
