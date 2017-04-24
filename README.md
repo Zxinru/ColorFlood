@@ -19,9 +19,11 @@ Démarrez le jeu après l'avoir installé avec la command :
 edit
 ```
 
-Vous entrez la taille de la grille ( > 0 )
-Vous choisissez la couleur pour jouer
-Vous etes gagnant si vous reussissez a avoir une grille de meme couleur sans depasser le nombre du coups autorises
+1.Vous entrez la taille de la grille ( > 0 )
+
+2.Vous choisissez la couleur pour jouer
+
+3.Vous etes gagnant si vous reussissez a avoir une grille de meme couleur sans depasser le nombre du coups autorises
 
 
 Voir Doxygen
