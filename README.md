@@ -28,8 +28,11 @@ edit
 
 Voir Doxygen
 ------------------------
-Entrer dans le dossier html
-Ouvrir index.html qui contient la documentation avec doxygen
+Entrer dans le dossier 
+```
+html
+```
+Ouvrir ```index.html``` qui contient la documentation avec doxygen
 
 CUnit
 ------------------------
