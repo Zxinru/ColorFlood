@@ -12,7 +12,13 @@ Lancez simplement la commande suivant dans un terminal :
 make
 ```
 
-Lance
+Lancement de jeu
+------------------------
+Démarrez le jeu après l'avoir installé avec la command : 
+```
+edit
+```
+
 
 Travailler sur le projet
 -------------------------
