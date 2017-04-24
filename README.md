@@ -5,7 +5,7 @@ Travailler sur le projet
 
 ### Pour installer le projet
 ```
-git clone git@github.com:Zxinru/ColorFlood.git
+git clone git@gitlab.com:projet_infor/ColorFlood.git
 ```
 ### Avant de commencer à travailler
 ``` 
@@ -21,5 +21,5 @@ $ git pull
 =======
 2. git commit -a -m "décrire les changements"
 3. git push (upload fichier）
->>>>>>> b1a5765e21c95ff261856083b098b2e0a1062dad
+>>>>>>> 
 ```
