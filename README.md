@@ -19,6 +19,27 @@ Démarrez le jeu après l'avoir installé avec la command :
 edit
 ```
 
+Vous entrez la taille de la grille ( > 0 )
+Vous choisissez la couleur pour jouer
+Vous etes gagnant si vous reussissez a avoir une grille de meme couleur sans depasser le nombre du coups autorises
+
+
+Voir Doxygen
+------------------------
+Entrer dans le dossier html
+Ouvrir index.html qui contient la documentation avec doxygen
+
+CUnit
+------------------------
+pour voir les tests unitaire veuillez enter la commande
+```
+ cc cunit.c   -o cunit -I /usr/local/Cellar/cunit/2.1-3/include/ -lCUnit -L /usr/local/Cellar/cunit/2.1-3/lib/
+```
+
+apres tapez 
+```
+./cunit
+```
 
 Travailler sur le projet
 -------------------------
@@ -34,12 +55,8 @@ $ git pull
 
 ### Pour uploads les changements
 ```
-1. git status (pour voir ce qui a été changé)
-<<<<<<< HEAD
-3. git commit -a "décrire les changements"
-4. git push (upload fichier）
-=======
-2. git commit -a -m "décrire les changements"
+1. git add (pour voir ce qui a été changé)
+2. git commit -a "décrire les changements"
 3. git push (upload fichier）
->>>>>>> 
+
 ```
